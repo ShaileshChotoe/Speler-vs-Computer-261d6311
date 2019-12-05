@@ -4,7 +4,7 @@
 	<title>Stijn, Papier, Schaar</title>
 </head>
 <body>
-        <h1>Stijn Papier Schaar.</h1>
+        <h1>Stijn Papier Schaar</h1>
 		<h2>Speler 1</h2>
 		<?php
 		$dis = "";
